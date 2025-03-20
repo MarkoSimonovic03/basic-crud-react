@@ -1,0 +1,94 @@
+{
+  "athletes": [
+    {
+      "id": "a1b2",
+      "name": "Alex",
+      "sport": "Football",
+      "nationality": "USA"
+    },
+    {
+      "id": "c3d4",
+      "name": "Maria",
+      "sport": "Basketball",
+      "nationality": "Spain"
+    },
+    {
+      "id": "e5f6",
+      "name": "John",
+      "sport": "Tennis",
+      "nationality": "UK"
+    },
+    {
+      "id": "g7h8",
+      "name": "Sophie",
+      "sport": "Swimming",
+      "nationality": "Australia"
+    },
+    {
+      "id": "i9j0",
+      "name": "Lucas",
+      "sport": "Baseball",
+      "nationality": "Canada"
+    },
+    {
+      "id": "k1l2",
+      "name": "Lina",
+      "sport": "Gymnastics",
+      "nationality": "Germany"
+    },
+    {
+      "id": "m3n4",
+      "name": "Carlos",
+      "sport": "Boxing",
+      "nationality": "Mexico"
+    },
+    {
+      "id": "o5p6",
+      "name": "Anna",
+      "sport": "Cycling",
+      "nationality": "France"
+    },
+    {
+      "id": "q7r8",
+      "name": "David",
+      "sport": "Rugby",
+      "nationality": "South Africa"
+    },
+    {
+      "id": "s9t0",
+      "name": "Zara",
+      "sport": "Athletics",
+      "nationality": "Kenya"
+    },
+    {
+      "id": "u1v2",
+      "name": "Eva",
+      "sport": "Volleyball",
+      "nationality": "Italy"
+    },
+    {
+      "id": "w3x4",
+      "name": "Sebastian",
+      "sport": "Golf",
+      "nationality": "Argentina"
+    },
+    {
+      "id": "y5z6",
+      "name": "Isabella",
+      "sport": "Badminton",
+      "nationality": "India"
+    },
+    {
+      "id": "a7b8",
+      "name": "Niko",
+      "sport": "Cricket",
+      "nationality": "Pakistan"
+    },
+    {
+      "id": "c9d0",
+      "name": "Olivia",
+      "sport": "Skiing",
+      "nationality": "Norway"
+    }
+  ]
+}
